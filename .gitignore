@@ -1,0 +1,10 @@
+dist/
+.DS_Store
+.obsidian/workspace*.json
+# Safety net: never commit a filled-in OS. These paths hold personal data.
+my-os/
+**/ops/plans/**/*.md
+**/ops/summaries/**/*.md
+**/ops/tracking/crm/people/*.md
+**/ops/tracking/crm/communications/*.md
+**/Meeting Notes/*.md
